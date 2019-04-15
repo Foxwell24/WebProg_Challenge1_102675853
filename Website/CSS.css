@@ -1,0 +1,45 @@
+
+p {
+    margin: 0px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+}
+div {
+    padding: 20px;
+}
+
+.top {
+    background-color: #263238;
+    
+}
+
+.mid {
+    background-color: #1565C0;
+
+}
+
+.bot {
+    background-color: #42A5F5;
+}
+
+.point {
+    font-weight: bold;
+}
+
+.date {
+    list-style-type: none;
+    background-color: #607D8B;
+    width: 50px;
+}
+
+.par {
+    list-style-type: none;
+    font-size: 10px;
+}
+
